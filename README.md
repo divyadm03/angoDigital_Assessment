@@ -5,7 +5,7 @@ This app is about creating course list in page similar to Udemy.
 It also has functionalites like pagination , search and category filter.
 
 To start the application clone the repo
-// repo link
+git clone https://github.com/divyadm03/angoDigital_Assessment.git
 Run npm install inside the folder
 
 Start json server using
